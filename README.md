@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Sartoreto</h1>
 <h3 align="center">A passionate fullstack developer from Brasil!</h3>
 
-- 🔭 I’m currently working on **Orbis Digital**
+- 🔭 I’m currently working on **P4Pro**
 
 - 📫 How to reach me **fixsartoreto@gmail.com**
 
